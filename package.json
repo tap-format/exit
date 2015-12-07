@@ -1,0 +1,30 @@
+{
+  "name": "@untap/exit",
+  "version": "0.1.0",
+  "description": "Exit with status code \"1\" on failing assertions while parsing TAP output",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/untap/exit.git"
+  },
+  "keywords": [
+    "untap",
+    "parse",
+    "tap",
+    "exit",
+    "status"
+  ],
+  "author": "Scott Corgan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/untap/exit/issues"
+  },
+  "homepage": "https://github.com/untap/exit#readme",
+  "dependencies": {
+    "ramda": "^0.18.0",
+    "rx": "^4.0.7"
+  }
+}
