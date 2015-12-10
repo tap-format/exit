@@ -1,6 +1,6 @@
 {
   "name": "@tap-format/exit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Exit with status code \"1\" on failing assertions while parsing TAP output",
   "main": "index.js",
   "scripts": {
